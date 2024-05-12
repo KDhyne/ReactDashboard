@@ -1,5 +1,7 @@
 # ReactDashboard
-Dashboard app created with React for practice
+Dashboard app created with React for practice 
+
+[Video link](https://www.youtube.com/watch?v=wYpCWwD1oz0&list=PLgObQ7n0OO8Se3RAricJzDZnyBwoFtgWc&index=9&t=2023s)
 
 # Getting Started with Create React App
 
